@@ -15,8 +15,8 @@ In this lab we'll will accomplish the following:
 
 
 First of all, we create an Ubuntu 22.04 Server VM in our VMware Workstation Pro 17.2 and check it's internet connectivity: 
-
-![Pasted image 20240812131243.png](attachments/Pasted%20image%2020240325172940.png)
+                                               Pasted image 20240812131243.png
+![Pasted image 20240812131243.png](attachments/Pasted%20image%2020240812131243.png)
  
 Our Ubuntu machine has 2 GB RAM, as well as 2 processors. Our Windows VM has 4 GB RAM & 4 processors.
 
@@ -37,7 +37,7 @@ First of all, we need to disable **Tamper Protection**:
 4. Click “Windows Security”
 5. Click “Virus & threat protection”
 
-![Pasted image 20240812135312](attachments/Pasted image 20240812135312.png)
+![Pasted image 20240812135312](attachments/Pasted%20image%2020240812135312.png)
 
 6. Under “Virus & threat protection settings” click “Manage settings”
 
