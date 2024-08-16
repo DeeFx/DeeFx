@@ -16,7 +16,7 @@ In this lab we'll will accomplish the following:
 
 First of all, we create an Ubuntu 22.04 Server VM in our VMware Workstation Pro 17.2 and check it's internet connectivity: 
 
-![Pasted image 20240812131243.png](attachments/Pasted image 20240325172940.png)
+![[attachments/Pasted image 20240325172940.png]]
  
 Our Ubuntu machine has 2 GB RAM, as well as 2 processors. Our Windows VM has 4 GB RAM & 4 processors.
 
